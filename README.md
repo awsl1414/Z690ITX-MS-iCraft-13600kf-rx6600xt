@@ -2,10 +2,10 @@
 
 ## 配置详情
 
-**主板**：MS-iCraft Z690ITX WIFI
-**CPU**：英特尔 ® 酷睿 ™ i5-13600KF 处理器
-**GPU**：RX6600xt
-**网卡**：AX211
+**主板**：MS-iCraft Z690ITX WIFI  
+**CPU**：英特尔 ® 酷睿 ™ i5-13600KF 处理器  
+**GPU**：RX6600xt  
+**网卡**：AX211  
 **声卡**：ALC897
 
 ## 性能
