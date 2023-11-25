@@ -10,7 +10,8 @@
 
 ## 性能
 
-![GeekBench6](SceenShot/GeekBench6.png "Magic Gardens")
+![GeekBench6-CPU](SceenShot/GeekBench6-CPU.png "I5 13600KF")
+![GeekBench6-GPU](SceenShot/GeekBench6-RX6600xt.png "RX6600xt")
 
 ## 细节
 
