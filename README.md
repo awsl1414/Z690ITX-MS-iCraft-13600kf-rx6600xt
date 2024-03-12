@@ -4,7 +4,7 @@
 
 **主板**：MS-iCraft Z690ITX WIFI  
 **CPU**：英特尔 ® 酷睿 ™ i5-13600KF 处理器  
-**GPU**：RX6600xt  
+**GPU**：RX6600xt/RX6800xt
 **网卡**：AX211  
 **声卡**：ALC897
 
@@ -15,7 +15,7 @@
 
 ## 细节
 
-**OpenCore**：0.96
+**OpenCore**：0.98
 
 ## 问题
 
@@ -23,7 +23,7 @@
 
 ## 提示
 
-- 此 EFI 适用于`ventura`，`monterey`，选择系统为`monterey`需替换 wifi 驱动（AirportItlwm）。
+- 此 EFI 适用于`ventura`，`monterey`, `sonoma`，不同系统需不同 `wifi` 驱动（AirportItlwm - intel）。
 
 ## 相关文档
 
@@ -33,4 +33,4 @@
 
 ## 最后
 
-**劳烦各位点个 star**
+**觉得有用的点个star吧**
