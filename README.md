@@ -4,7 +4,7 @@
 
 **主板**：MS-iCraft Z690ITX WIFI  
 **CPU**：英特尔 ® 酷睿 ™ i5-13600KF 处理器  
-**GPU**：RX6600xt/RX6800xt
+**GPU**：RX6600xt/RX6800xt  
 **网卡**：AX211  
 **声卡**：ALC897
 
